@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Fri, 26 Jul 2019 19:21:27 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2019 08:50:56 +0800</lastBuildDate>
     
 	<atom:link href="https://darkgo.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>List</title>
+      <link>https://darkgo.com/list/</link>
+      <pubDate>Mon, 26 Aug 2019 08:50:56 +0800</pubDate>
+      
+      <guid>https://darkgo.com/list/</guid>
+      <description> Todo List  考上研究生 一台 MacBook Pro 滑雪 旅游 水魔方 漂流  </description>
+    </item>
     
     <item>
       <title>About</title>
