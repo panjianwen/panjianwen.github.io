@@ -6,8 +6,19 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-		<lastBuildDate>Fri, 26 Jul 2019 18:52:20 +0800</lastBuildDate>
+		<lastBuildDate>Mon, 09 Sep 2019 01:04:42 +0800</lastBuildDate>
 		<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>简历</title>
+			<link>/posts/resume/</link>
+			<pubDate>Mon, 09 Sep 2019 01:04:42 +0800</pubDate>
+			
+			<guid>/posts/resume/</guid>
+			<description></description>
+			<content type="html"><![CDATA[<p><img src="/resume.png" alt="简历" /></p>
+]]></content>
+		</item>
 		
 		<item>
 			<title>2018年终总结</title>

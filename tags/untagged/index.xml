@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>untagged on Peter Pan</title>
-    <link>https://darkgo.com/tags/untagged/</link>
+    <link>/tags/untagged/</link>
     <description>Recent content in untagged on Peter Pan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Fri, 26 Jul 2019 18:52:20 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Sep 2019 01:04:42 +0800</lastBuildDate>
     
-	<atom:link href="https://darkgo.com/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>First</title>
-      <link>https://darkgo.com/posts/first/</link>
-      <pubDate>Fri, 26 Jul 2019 18:52:20 +0800</pubDate>
+      <title>简历</title>
+      <link>/posts/resume/</link>
+      <pubDate>Mon, 09 Sep 2019 01:04:42 +0800</pubDate>
       
-      <guid>https://darkgo.com/posts/first/</guid>
-      <description>hello af</description>
+      <guid>/posts/resume/</guid>
+      <description></description>
     </item>
     
   </channel>
