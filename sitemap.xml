@@ -3,40 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://darkgo.com/list/</loc>
+    <loc>panjianwen.github.io/list/</loc>
     <lastmod>2019-08-26T08:50:56+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://darkgo.com/</loc>
+    <loc>panjianwen.github.io/</loc>
     <lastmod>2019-08-26T08:50:56+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://darkgo.com/about/</loc>
+    <loc>panjianwen.github.io/about/</loc>
     <lastmod>2019-07-26T19:21:27+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://darkgo.com/posts/2018%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</loc>
+    <loc>panjianwen.github.io/posts/2018%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</loc>
     <lastmod>2019-07-26T18:52:20+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://darkgo.com/posts/</loc>
-    <lastmod>2019-07-26T18:52:20+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://darkgo.com/tags/</loc>
+    <loc>panjianwen.github.io/posts/</loc>
     <lastmod>2019-07-26T18:52:20+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://darkgo.com/tags/summary/</loc>
+    <loc>panjianwen.github.io/tags/</loc>
+    <lastmod>2019-07-26T18:52:20+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>panjianwen.github.io/tags/summary/</loc>
     <lastmod>2019-07-26T18:52:20+08:00</lastmod>
     <priority>0</priority>
   </url>

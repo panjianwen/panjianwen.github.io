@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Peter Pan</title>
-    <link>https://darkgo.com/tags/</link>
+    <link>panjianwen.github.io/tags/</link>
     <description>Recent content in Tags on Peter Pan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Fri, 26 Jul 2019 18:52:20 +0800</lastBuildDate>
     
-	<atom:link href="https://darkgo.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="panjianwen.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>summary</title>
-      <link>https://darkgo.com/tags/summary/</link>
+      <link>panjianwen.github.io/tags/summary/</link>
       <pubDate>Fri, 26 Jul 2019 18:52:20 +0800</pubDate>
       
-      <guid>https://darkgo.com/tags/summary/</guid>
+      <guid>panjianwen.github.io/tags/summary/</guid>
       <description></description>
     </item>
     
