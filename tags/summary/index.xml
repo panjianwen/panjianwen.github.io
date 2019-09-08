@@ -1,37 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Peter Pan</title>
-    <link>https://darkgo.com/</link>
-    <description>Recent content on Peter Pan</description>
+    <title>summary on Peter Pan</title>
+    <link>https://darkgo.com/tags/summary/</link>
+    <description>Recent content in summary on Peter Pan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 26 Aug 2019 08:50:56 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2019 18:52:20 +0800</lastBuildDate>
     
-	<atom:link href="https://darkgo.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://darkgo.com/tags/summary/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>List</title>
-      <link>https://darkgo.com/list/</link>
-      <pubDate>Mon, 26 Aug 2019 08:50:56 +0800</pubDate>
-      
-      <guid>https://darkgo.com/list/</guid>
-      <description> Todo List  考上研究生 一台 MacBook Pro 滑雪 旅游 水魔方 漂流  </description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://darkgo.com/about/</link>
-      <pubDate>Fri, 26 Jul 2019 19:21:27 +0800</pubDate>
-      
-      <guid>https://darkgo.com/about/</guid>
-      <description>自我介绍 我叫潘建文，是一名终身学习者。
-负责 Android 开发，目前在北京读非全日制研究生。
-在这里提升技术，分享我的认知。
-联系方式：339397331</description>
-    </item>
     
     <item>
       <title>2018年终总结</title>
