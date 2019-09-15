@@ -4,20 +4,31 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-09-09T01:04:42+08:00</lastmod>
+    <lastmod>2019-09-15T19:10:33+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/posts/</loc>
-    <lastmod>2019-09-09T01:04:42+08:00</lastmod>
+    <lastmod>2019-09-15T19:10:33+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2019-09-09T01:04:42+08:00</lastmod>
+    <lastmod>2019-09-15T19:10:33+08:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/summary/</loc>
+    <lastmod>2019-09-15T19:10:33+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/posts/%E8%B0%88%E8%B0%88%E6%88%91%E7%9A%84%E8%80%83%E7%A0%94%E4%B9%8B%E8%B7%AF/</loc>
+    <lastmod>2019-09-15T19:10:33+08:00</lastmod>
   </url>
   
   <url>
@@ -44,12 +55,6 @@
   <url>
     <loc>/posts/2018%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</loc>
     <lastmod>2019-07-26T18:52:20+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/summary/</loc>
-    <lastmod>2019-07-26T18:52:20+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
 </urlset>
